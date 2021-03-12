@@ -1,0 +1,5 @@
+#!/bin/bash
+
+mainclass=UrlSample
+
+java_home=/home/bvn/sapmachine-jdk-15.0.2
